@@ -6,7 +6,7 @@ import instaloader
 bot = instaloader.Instaloader()
 
 # List of Instagram usernames
-usernames = ['karpal.singh.bandral', 'work.play.sleep', '_https.niki1']
+usernames = ['user 1', 'user 2', 'user 3']
 
 # Variable to store the total followers count
 total_followers_count = 0
